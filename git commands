@@ -1,4 +1,5 @@
-cd C:\Users\MSIS\Downloads\APS
-git add folder_name
-git commit -m "Add folder_name"
-git push origin main
+git add .
+git commit -m "Add lab assignment files"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/AML_LAB.git
+git push -u origin main
